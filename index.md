@@ -31,7 +31,7 @@ Simple Calculators and Games
     - [Electroplating ASF calculator](https://kbralten.github.io/calculators/electroplating_asf.html)
     - [Lumber calculator](https://kbralten.github.io/calculators/lumber.html)
 
--   [Static Games](https://github.com/kbralten/static_games): A collection of browser-based games. Play them directly:
+-   Static Games: A collection of browser-based games. Play them directly:
     - [Gridlock](https://static-games.onrender.com/gridlock.html): Navigate challenging grid-based puzzles.
     - [Math Drop](https://static-games.onrender.com/mathdrop.html): Solve equations in a fast-paced number game.
 
