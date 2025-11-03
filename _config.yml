@@ -1,0 +1,14 @@
+title: kbralten
+description: "links to projects"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kbralten.github.io"
+repository: kbralten/kbralten.github.io
+theme: minima
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - vendor/bundle
+
