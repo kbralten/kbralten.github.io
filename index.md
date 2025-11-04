@@ -3,7 +3,7 @@ layout: default
 title: "Projects"
 ---
 
-Personal Software Projects
+Software Projects
 ==========================
 
 Virtual Camera
