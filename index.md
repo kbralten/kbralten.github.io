@@ -35,3 +35,11 @@ Simple Calculators and Games
     - [Gridlock](https://static-games.onrender.com/gridlock.html): Navigate challenging grid-based puzzles.
     - [Math Drop](https://static-games.onrender.com/mathdrop.html): Solve equations in a fast-paced number game.
 
+
+Serial Debugging
+----------------
+
+-   [ss_term](https://github.com/kbralten/ss_term): A minimal Python + Tkinter serial terminal emulator that supports selecting EOL modes (`CR`, `LF`, `CRLF`) and sending raw bytes (hex input). Useful for quick interactive serial sessions and debugging devices.
+
+-   [serial_snoop](https://github.com/kbralten/serial_snoop): A Windows WPF application that proxies between an upstream virtual COM port and a downstream real COM port, logging timestamped bidirectional traffic (hex and ASCII). Intended for monitoring and debugging serial traffic when used with virtual port drivers such as `com0com`.
+
