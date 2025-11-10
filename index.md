@@ -31,8 +31,10 @@ Virtual Camera
 Measurement and Test Instrument Tools
 -------------------------------------
 
--   [vxi_proxy](https://github.com/kbralten/vxi_proxy): Proxies SCPI, MODBUS, and USBTMC (and more) into VXI-11 compatible devices.
--   [vxi_dash](https://github.com/kbralten/vxi_dash): A monitoring and state-machine-based control system for VXI-11 devices (or any devices supported by vxi_proxy).
+Electronics related
+-------------------
+
+-   See the full electronics tools collection on the [Electronics related page](electronics.html).
 
 Serial Debugging
 ----------------
