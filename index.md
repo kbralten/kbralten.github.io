@@ -28,9 +28,6 @@ Virtual Camera
 -   [onvif_simple](https://github.com/kbralten/onvif_simple): Allows a USB camera to emulate an ONVIF compliant camera.
 -   [WinCamHTTP](https://github.com/kbralten/WinCamHTTP): A virtual camera driver for Windows 11 that turns any MJPEG source into a camera.
 
-Measurement and Test Instrument Tools
--------------------------------------
-
 Electronics related
 -------------------
 
