@@ -26,6 +26,7 @@ PCB & Gerber Tools
 ------------------
 
 -   [gerber_to_svg](https://github.com/kbralten/gerber_to_svg): Convert Gerber PCB files into clean SVG vector paths (and optional PNG exports). Supports drill file inclusion, polarity-aware rendering, and contour tracing (uses `pygerber` + `OpenCV`). Useful for vector output for CNC or laser engraving or previewing PCB copper/outlines for documentation. (AGPL-3.0)
+-   [gerber_to_gcode](https://github.com/kbralten/gerber_to_gcode): Excellon (drill) → G-code converter for CNC. Parses Excellon drill files, supports metric/imperial and zero suppression modes, and chooses drilling vs spiral milling strategies depending on hole size. Optional arc/helical interpolation (`--use-arcs`) produces much smaller G-code and the script is configurable for bit size, depth, feed rates, and safe heights. Ideal for turning PCB drill files into safe, ready-to-run CNC G-code. (AGPL-3.0)
 
 KiCad
 ---------------------
