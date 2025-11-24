@@ -22,6 +22,11 @@ Hardware interface
 
 -   [tf-luna](https://github.com/kbralten/tf-luna): Arduino sketches and example code for interfacing the TF-Luna LiDAR sensor (I2C and UART). Includes `TFLuna_I2C.ino` and instructions for wiring and testing distance measurements with an Arduino. (MIT License)
 
+Protocol references
+-------------------
+
+-   [device_protocols](https://github.com/kbralten/device_protocols): Curated notes on command sets, pinouts, and interface quirks for various electronic test instruments (oscilloscopes, multimeters, signal generators, supplies, etc.). Browse the rendered reference at [kbralten.github.io/device_protocols](https://kbralten.github.io/device_protocols/). (MIT License)
+
 PCB & Gerber Tools
 ------------------
 
