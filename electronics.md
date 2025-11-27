@@ -11,6 +11,7 @@ Measurement and Test Instrument Tools
 
 -   [vxi_proxy](https://github.com/kbralten/vxi_proxy): Proxies SCPI, MODBUS, and USBTMC (and more) into VXI-11 compatible devices.
 -   [vxi_dash](https://github.com/kbralten/vxi_dash): A monitoring and state-machine-based control system for VXI-11 devices (or any devices supported by `vxi_proxy`).
+-   [umdt](https://github.com/kbralten/umdt): Universal Modbus Diagnostic Tool — a Python toolkit for diagnosing, simulating, and bridging Modbus RTU/TCP devices. Includes an interactive CLI/GUI for reading/writing registers and probing networks, a configurable mock server with fault injection, and a soft-gateway bridge with PCAP logging. Ships with Wireshark Lua dissectors for easy packet analysis. (AGPL-3.0)
 
 Other electronics instrument tools
 ----------------------
