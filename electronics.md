@@ -38,3 +38,7 @@ PCB & Gerber Tools
 KiCad
 ---------------------
 -   [kicad_excel](https://github.com/kbralten/kicad_excel): The KiCad Excel Bridge is a .NET 9 WPF application designed to facilitate the integration of KiCad with Excel/CSV files. It provides a tray application with an HTTP API for managing and mapping fields between KiCad and Excel/CSV data. The application includes a user-friendly field-mapping UI and supports per-sheet settings for flexible configuration.
+
+FPGA
+---------------------
+-   [The Pynq Learning Journey](https://kbralten.github.io/pynq_to_zynq/) and [Loopback Project](https://kbralten.github.io/pynq_to_zynq/loopback/): This project documents the complete path from using the PYNQ-Z2 board within the friendly, Python-based PYNQ ecosystem, to mastering it as a generic Zynq-7000 development board. It features the Loopback Project, a multi-step tutorial where to build a single, cohesive system that touches every layer of the embedded stack.
