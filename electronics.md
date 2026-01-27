@@ -42,3 +42,4 @@ KiCad
 FPGA
 ---------------------
 -   [The Pynq Learning Journey](https://kbralten.github.io/pynq_to_zynq/) and [Loopback Project](https://kbralten.github.io/pynq_to_zynq/loopback/): This project documents the complete path from using the PYNQ-Z2 board within the friendly, Python-based PYNQ ecosystem, to mastering it as a generic Zynq-7000 development board. It features the Loopback Project, a multi-step tutorial where to build a single, cohesive system that touches every layer of the embedded stack.
+-   [The PynqPi Project](https://github.com/kbralten/pynqpi): A "RaspberryPi like" Debian-based GUI Linux image for the Pynq Z2. Both a set of end-to-end steps to follow for "no magic" as well as a completed artifact.
