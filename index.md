@@ -10,6 +10,7 @@ Image and 3D Model Manipulation
 
 -   [STL_PNG_Depth](https://github.com/kbralten/STL_PNG_Depth): Converts 3D STL files into grayscale depth maps (PNG) and vectorized SVGs for laser engraving, CNC, and fabrication workflows. Includes slicing, segmentation, and web-based conversion options. Try the [interactive web tool](https://kbralten.github.io/STL_PNG_Depth/) to upload STL files and preview or download depth maps and SVGs.
 -   [spot_svg](https://github.com/kbralten/spot_svg): Extracts a limited color palette from images and generates SVGs with polygonal regions for each color, ideal for stencils or simplified vector art.
+-   [aruco_online](https://github.com/kbralten/aruco_online): A fast, lightweight web application for detecting and decoding ArUco markers directly in your browser. Uses OpenCV.js for privacy-first, local image processing with support for multiple dictionaries and image variations. Try the [interactive web tool](https://kbralten.github.io/aruco_online/).
 
 Simple Calculators and Games
 ----------------------------
