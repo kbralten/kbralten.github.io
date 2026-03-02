@@ -38,6 +38,7 @@ PCB & Gerber Tools
 KiCad
 ---------------------
 -   [kicad_excel](https://github.com/kbralten/kicad_excel): The KiCad Excel Bridge is a .NET 9 WPF application designed to facilitate the integration of KiCad with Excel/CSV files. It provides a tray application with an HTTP API for managing and mapping fields between KiCad and Excel/CSV data. The application includes a user-friendly field-mapping UI and supports per-sheet settings for flexible configuration.
+-   [KiPIDA](https://github.com/kbralten/KiPIDA): *Ki-PIDA (KiCad Power Integrity & Delivery Analyzer)* is a native KiCad 9.0+ plugin for DC Power Integrity (PI) analysis. It enables PCB designers to simulate voltage drops (IR drop), current densities, and thermal rise directly within the KiCad environment. Key features include power tree management, a hybrid 2.5D solver, and visual heatmaps. (Currently in Alpha status).
 
 FPGA
 ---------------------
