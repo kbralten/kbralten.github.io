@@ -29,10 +29,6 @@ Virtual Camera
 -   [onvif_simple](https://github.com/kbralten/onvif_simple): Allows a USB camera to emulate an ONVIF compliant camera.
 -   [WinCamHTTP](https://github.com/kbralten/WinCamHTTP): A virtual camera driver for Windows 11 that turns any MJPEG source into a camera.
 
-Electronics related
--------------------
-
--   See the full electronics tools collection on the [Electronics related page](electronics.html).
 
 Serial Debugging
 ----------------
@@ -40,3 +36,12 @@ Serial Debugging
 -   [ss_term](https://github.com/kbralten/ss_term): A minimal Python + Tkinter serial terminal emulator that supports selecting EOL modes (`CR`, `LF`, `CRLF`) and sending raw bytes (hex input). Useful for quick interactive serial sessions and debugging devices.
 -   [serial_snoop](https://github.com/kbralten/serial_snoop): A Windows WPF application that proxies between an upstream virtual COM port and a downstream real COM port, logging timestamped bidirectional traffic (hex and ASCII). Intended for monitoring and debugging serial traffic when used with virtual port drivers such as `com0com`.
 
+Electronics related
+-------------------
+
+-   See the full electronics tools collection on the [Electronics related page](electronics.html).
+
+Hardware
+--------
+
+-   See the hardware projects collection on the [Hardware page](hardware.html).
